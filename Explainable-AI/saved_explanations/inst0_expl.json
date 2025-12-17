@@ -1,0 +1,131 @@
+{
+  "method": "lime",
+  "instance_index": 0,
+  "prediction": 11,
+  "contributions": [
+    {
+      "feature": "diarrhea",
+      "contribution": -0.011588899264990524
+    },
+    {
+      "feature": "nausea",
+      "contribution": 0.007134371020585184
+    },
+    {
+      "feature": "headache",
+      "contribution": -0.006373984748757314
+    },
+    {
+      "feature": "joint_pain",
+      "contribution": -0.005644844765010842
+    },
+    {
+      "feature": "Symptom_Count",
+      "contribution": -0.0054955114270340945
+    },
+    {
+      "feature": "fatigue",
+      "contribution": -0.00511781993525559
+    },
+    {
+      "feature": "tremors",
+      "contribution": -0.0049394635588730605
+    },
+    {
+      "feature": "vomiting",
+      "contribution": 0.004937481996411979
+    },
+    {
+      "feature": "Age",
+      "contribution": -0.0038190835338255827
+    },
+    {
+      "feature": "insomnia",
+      "contribution": -0.0037789729909754595
+    },
+    {
+      "feature": "blurred_vision",
+      "contribution": -0.003679632861052757
+    },
+    {
+      "feature": "sweating",
+      "contribution": 0.003572683136075205
+    },
+    {
+      "feature": "runny_nose",
+      "contribution": -0.003560603052116502
+    },
+    {
+      "feature": "swelling",
+      "contribution": 0.003517326334131999
+    },
+    {
+      "feature": "back_pain",
+      "contribution": 0.003382583069886159
+    },
+    {
+      "feature": "anxiety",
+      "contribution": 0.003280264843932408
+    },
+    {
+      "feature": "sneezing",
+      "contribution": -0.0031285853294710057
+    },
+    {
+      "feature": "fever",
+      "contribution": 0.0023049715784242415
+    },
+    {
+      "feature": "abdominal_pain",
+      "contribution": 0.001946728745547152
+    },
+    {
+      "feature": "shortness_of_breath",
+      "contribution": 0.001779045161793727
+    },
+    {
+      "feature": "weight_gain",
+      "contribution": 0.001468536489302346
+    },
+    {
+      "feature": "chest_pain",
+      "contribution": -0.0013994588159901517
+    },
+    {
+      "feature": "dizziness",
+      "contribution": 0.001249967452517987
+    },
+    {
+      "feature": "cough",
+      "contribution": 0.0010959364835616155
+    },
+    {
+      "feature": "sore_throat",
+      "contribution": 0.0009487941136272617
+    },
+    {
+      "feature": "rash",
+      "contribution": 0.0005397131200491186
+    },
+    {
+      "feature": "muscle_pain",
+      "contribution": -0.0005307906154410646
+    },
+    {
+      "feature": "appetite_loss",
+      "contribution": 0.0005262731707898093
+    },
+    {
+      "feature": "depression",
+      "contribution": 0.00025921248818837166
+    },
+    {
+      "feature": "weight_loss",
+      "contribution": -0.00015583246614237875
+    },
+    {
+      "feature": "Gender",
+      "contribution": 0.0
+    }
+  ]
+}
