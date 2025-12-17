@@ -1,0 +1,10 @@
+{
+  "common cold": "Self-Care (Low Risk)",
+  "allergic rhinitis": "Self-Care (Low Risk)",
+  "influenza": "Consult GP (Medium Risk)",
+  "flu": "Consult GP (Medium Risk)",
+  "bronchitis": "Consult GP (Medium Risk)",
+  "pneumonia": "Seek Emergency Care (High Risk)",
+  "myocardial infarction": "Seek Emergency Care (High Risk)",
+  "stroke": "Seek Emergency Care (High Risk)"
+}
